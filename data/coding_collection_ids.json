@@ -1,0 +1,21 @@
+[
+  "anthropic/claude-4.7-opus-20260416",
+  "anthropic/claude-4.8-opus-20260528",
+  "anthropic/claude-opus-4.7",
+  "anthropic/claude-opus-4.8",
+  "anthropic/claude-sonnet-5",
+  "deepseek/deepseek-v4-flash",
+  "deepseek/deepseek-v4-flash-20260423",
+  "deepseek/deepseek-v4-pro",
+  "deepseek/deepseek-v4-pro-20260423",
+  "minimax/minimax-m3",
+  "minimax/minimax-m3-20260531",
+  "nvidia/nemotron-3-ultra-550b-a55b-20260604:free",
+  "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "tencent/hy3-20260706:free",
+  "tencent/hy3:free",
+  "xiaomi/mimo-v2.5",
+  "xiaomi/mimo-v2.5-20260422",
+  "z-ai/glm-5.2",
+  "z-ai/glm-5.2-20260616"
+]
