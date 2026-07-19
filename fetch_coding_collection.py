@@ -2,7 +2,7 @@
 fetch_coding_collection.py
  
 Pulls model IDs belonging to OpenRouter's "coding" collection so we have
- a group-membership label independent of the main /api/v1/models pull.
+a group-membership label independent of the main /api/v1/models pull.
  
 NOTE: OpenRouter does not (as of this writing) publish a documented JSON
 API for collections the way it does for /api/v1/models. This script
